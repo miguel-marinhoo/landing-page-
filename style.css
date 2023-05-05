@@ -201,3 +201,10 @@ footer > div{
     gap: 2rem;
     flex-wrap: wrap;
 }
+.projeto{
+    text-decoration: none;
+    color: var(--dark4);
+    font-family: "Lato", sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
